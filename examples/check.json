@@ -1,0 +1,8 @@
+{
+  "file": "examples/target/sample_doc_v1.1.md",
+  "body_start": "一、建设背景",
+  "absent_body": ["治理三角", "反哺", "必然存在"],
+  "present_body": ["三个模块的分工", "反馈", "通常会有"],
+  "present_anywhere": ["V1.1"],
+  "structure": {"h1": 1, "h2": 3}
+}

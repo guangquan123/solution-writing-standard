@@ -1,0 +1,6 @@
+[
+  {"file": "examples/target/sample_doc.md", "old": "治理三角", "new": "三个模块的分工", "expected": 2},
+  {"file": "examples/target/sample_doc.md", "old": "反哺", "new": "反馈", "expected": 2},
+  {"file": "examples/target/sample_doc.md", "old": "必然存在", "new": "通常会有", "expected": 1},
+  {"file": "examples/target/sample_doc.md", "old": "分三步——先盘点", "new": "分三步：先盘点", "expected": 1}
+]
